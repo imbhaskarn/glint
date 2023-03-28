@@ -2203,6 +2203,7 @@ html.no-csstransitions .home-content__main {
     background-color: #39b54a;
     color: #010507;
     position: relative;
+    background-image: url("../../../Documents/business/images/leaf.jpg");
 }
 
 .s-about .section-header.has-bottom-sep::before {
